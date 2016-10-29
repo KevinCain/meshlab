@@ -2,7 +2,7 @@ debug/
 release/
 meshlab/src/distrib/
 meshlab/src/meshlabplugins/
-meshlab/src/meshlab_full.pro.user
+meshlab/src/meshlab_full.pro.user*
 
 *.so
 *.obj

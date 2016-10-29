@@ -1,0 +1,7 @@
+<!DOCTYPE FilterScript>
+<FilterScript>
+ <filter name="Clustering decimation">
+  <Param type="RichAbsPerc" value="0.04162" min="0" name="Threshold" max="41.6172"/>
+  <Param type="RichBool" value="false" name="Selected"/>
+ </filter>
+</FilterScript>
